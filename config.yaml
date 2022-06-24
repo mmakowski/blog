@@ -1,7 +1,7 @@
 baseurl: "https://mmakowski.github.io/blog/"
 languageCode: "en-us"
 title: "Maciek's blog"
-theme: "xmin"
+theme: "mmin"
 footnotereturnlinkcontents: "↩"
 
 permalinks:

@@ -8,6 +8,6 @@
 {{ .Content }}
 </main>
 
-{{ if (gt .Params.date 0) }}<p class="date">{{ .Date.Format "2006/01/02" }}</p>{{ end }}
+{{ if (gt .Params.date 0) }}<p class="date">{{ .Date.Format "02/01/2006" }}</p>{{ end }}
 
 {{ partial "footer.html" . }}

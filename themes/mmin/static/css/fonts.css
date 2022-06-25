@@ -1,7 +1,7 @@
 body {
-  font-family: Spectral, serif;
+  font-family: Lora, serif;
 }
 code {
-  font-family: Iosevka, Consolas, "Lucida Console", monospace;
+  font-family: Iosevka, Consolas, Inconsolata, "Lucida Console", monospace;
   font-size: 85%;
 }
